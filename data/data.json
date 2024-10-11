@@ -1,0 +1,199 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "title": "Brown Coat",
+      "count": 0,
+      "price": 549,
+      "category": "Clothes",
+      "img": "../src/assets/shirt/coat1.png"
+    },
+    {
+      "id": "2",
+      "title": "Black Coat",
+      "count": 0,
+      "price": 450,
+      "category": "Clothes",
+      "img": "../src/assets/shirt/coat2.png"
+    },
+    {
+      "id": "3",
+      "title": "Dell G15",
+      "count": 0,
+      "price": 1200,
+      "category": "Laptops",
+      "img": "../src/assets/shirt/labtop1.png"
+    },
+    {
+      "id": "4",
+      "title": "Asus",
+      "count": 0,
+      "price": 1150,
+      "category": "Laptops",
+      "img": "../src/assets/shirt/labtop2.png"
+    },
+    {
+      "id": "5",
+      "title": "Lenovo",
+      "count": 0,
+      "price": 1099,
+      "category": "Laptops",
+      "img": "../src/assets/shirt/labtop3.png"
+    },
+    {
+      "id": "6",
+      "title": "Iphone 12",
+      "count": 0,
+      "price": 899,
+      "category": "Phones",
+      "img": "../src/assets/shirt/phone1.png"
+    },
+    {
+      "id": "7",
+      "title": "Iphone 14",
+      "count": 0,
+      "price": 1000,
+      "category": "Phones",
+      "img": "../src/assets/shirt/phone2.png"
+    },
+    {
+      "id": "8",
+      "title": "Blue T-shirt",
+      "count": 0,
+      "price": 99,
+      "category": "Clothes",
+      "img": "../src/assets/shirt/shirt.png"
+    },
+    {
+      "id": "9",
+      "title": "Blue&White T-shirt",
+      "count": 0,
+      "price": 109,
+      "category": "Clothes",
+      "img": "../src/assets/shirt/shirt2.png"
+    },
+    {
+      "id": "10",
+      "title": "Women T-shirt",
+      "count": 0,
+      "price": 110,
+      "category": "Clothes",
+      "img": "../src/assets/shirt/shirt3.png"
+    },
+    {
+      "id": "11",
+      "title": "Pink T-shirt",
+      "count": 0,
+      "price": 59,
+      "category": "Clothes",
+      "img": "../src/assets/shirt/shirt4.png"
+    },
+    {
+      "id": "12",
+      "title": "Pink W T-shirt",
+      "count": 0,
+      "price": 60,
+      "category": "Clothes",
+      "img": "../src/assets/shirt/shirt5.png"
+    },
+    {
+      "id": "13",
+      "title": "Red T-shirt",
+      "count": 0,
+      "price": 59,
+      "category": "Clothes",
+      "img": "../src/assets/shirt/shirt6.png"
+    },
+    {
+      "id": "14",
+      "title": "Brown T-shirt",
+      "count": 0,
+      "price": 45,
+      "category": "Clothes",
+      "img": "../src/assets/shirt/shirt7.png"
+    },
+    {
+      "id": "15",
+      "title": "Red w T-shirt",
+      "count": 0,
+      "category": "Clothes",
+      "price": 59,
+      "img": "../src/assets/shirt/shirt8.png"
+    },
+    {
+      "id": "16",
+      "title": "White T-shirt",
+      "count": 0,
+      "price": 57,
+      "category": "Clothes",
+      "img": "../src/assets/shirt/shirt9.png"
+    },
+    {
+      "id": "17",
+      "title": "Black&White T-shirt",
+      "count": 0,
+      "price": 70,
+      "category": "Clothes",
+      "img": "../src/assets/shirt/shirt10.png"
+    },
+    {
+      "id": "18",
+      "title": "Women Shoes",
+      "count": 0,
+      "price": 30,
+      "category": "Shoes",
+      "img": "../src/assets/shirt/shoes1.png"
+    },
+    {
+      "id": "19",
+      "title": "White Shoes",
+      "count": 0,
+      "price": 35,
+      "category": "Shoes",
+      "img": "../src/assets/shirt/shoes2.png"
+    },
+    {
+      "id": "20",
+      "title": "Black Shoes",
+      "count": 0,
+      "price": 40,
+      "category": "Shoes",
+      "img": "../src/assets/shirt/shoes3.png"
+    },
+    {
+      "id": "21",
+      "title": "Man Shoes",
+      "count": 0,
+      "price": 59,
+      "category": "Shoes",
+      "img": "../src/assets/shirt/shoes4.png"
+    },
+    {
+      "id": "22",
+      "title": "Black Watch",
+      "count": 0,
+      "price": 122,
+      "category": "Watchs",
+      "img": "../src/assets/shirt/watch1.png"
+    },
+    {
+      "id": "23",
+      "title": "Brown Watch",
+      "count": 0,
+      "price": 150,
+      "category": "Watchs",
+      "img": "../src/assets/shirt/watch2.png"
+    },
+    {
+      "id": "24",
+      "title": "Leather watch",
+      "count": 0,
+      "price": 145,
+      "category": "Watchs",
+      "img": "../src/assets/shirt/watch3.png"
+    }
+  ],
+  "newProducts": [],
+  "User": [
+  ]
+}
