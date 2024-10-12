@@ -72,7 +72,7 @@ const Mycart = ({setcheckk}) => {
                                 <div  className='grid grid-cols-11'>
                                     <div className='flex items-center min-w-[147px] md:mr-[25px] col-span-4'>
                                         <div className='w-[60px] h-[100px] bg-gray-300 mr-3 rounded-2xl'>
-                                            <img className='w-[50px] h-[50px] mx-auto mt-6' src={item.img}/>
+                                            <img className='w-[50px] h-[50px] mx-auto mt-6' src={`e-commerce/${item.img}`}/>
                                         </div>
                                         
                                         <h1>{item.title}</h1>
