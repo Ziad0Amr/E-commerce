@@ -52,7 +52,7 @@ const Orders = ({show,setshow}) => {
                                 newProduct.map((item,index)=>(
                                     <div key={index} className="flex items-center gap-10 w-full h-[70px] bg-gray-800 rounded-lg dark:bg-white">
                                         <div className="w-[65px] h-[65px] ">
-                                            <img className="object-cover h-full w-full ml-1 rounded-md" src={item.img} alt={item.title}/>
+                                            <img className="object-cover h-full w-full ml-1 rounded-md" src={`e-commerce/${item.img}`} alt={item.title}/>
                                         </div>
                                         <div className="flex items-center gap-6">
                                             <h2 className="font-semibold text-white dark:text-black w-[120px]">{item.title}</h2>
